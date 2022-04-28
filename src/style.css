@@ -1,0 +1,34 @@
+.chat{
+
+
+ margin: 10px;
+border: none;
+background-color: white;
+
+}
+.ag-theme-alpine .ag-icon-pin {
+    font-family: "Font Awesome 5 Free";
+    /* FontAwesome uses font-weight bold */
+    font-weight: bold;
+  }
+.fa-solid{
+    margin-right: 5px;
+}
+
+.ag-theme-alpine .ag-column-drop-horizontal {
+    /* background-color: #f8f8f8; */
+    background-color: #f8f8f800 !important;
+    border: none;
+    height: 65px !important;
+    font-weight: bold !important;
+    top: 0px;
+}
+.ag-theme-alpine .ag-root-wrapper {
+    border: none !important;
+    
+}
+.ag-column-drop-horizontal-icon {
+    border: 2px solid rgb(179, 179, 179);
+    padding: 15px;
+    border-radius: 70px;
+}
